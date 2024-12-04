@@ -1,0 +1,1 @@
+{"model_type": "RandomForest", "accuracy": 0.8333333333333334, "model_file": "random_forest_model.joblib", "feature_names": ["age", "gender", "fever", "cough", "headache", "fatigue", "breathlessness"], "classes": ["Bronchitis", "Flu", "Pneumonia"]}

@@ -1,0 +1,4 @@
+Name,Age,Breathlessness,Fatigue,Fever,Headache,Gender,Cough,Diagnosis
+hafiz,25,1,0,1,0,0,1,Bronchitis
+adiel,23,1,1,0,0,0,1,Bronchitis
+hafiz,25,1,0,1,1,0,0,Bronchitis
